@@ -1,1 +1,1 @@
-# internet-banking
+![](docs/img/steps/mockup.png)
