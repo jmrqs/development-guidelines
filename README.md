@@ -1,1 +1,1 @@
-![](docs/img/steps/mockup.png)
+![](docs/img/mockup.png)
