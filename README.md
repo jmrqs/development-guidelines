@@ -1,3 +1,4 @@
-# Architecture
+# Initial Architecture
 
-![](docs/img/mockup.png)
+![](docs/img/streaming-boundaries.jpg)
+
