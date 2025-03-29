@@ -50,9 +50,9 @@
 
 ### Semantic commit message
 
-`<type>: <subject> #<pbi or hotfix>`
+`<type>: <subject> #<pbi, task or hotfix>`
 
-_\* PBI or hotfix not aplicable for this project_
+_\* For this project will be applicable the task number_
 
 **Types:**
 

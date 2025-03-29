@@ -2,10 +2,17 @@
 
 ![](docs/img/streaming-boundaries.jpg)
 
+## Agile and DevOps
+
+[Taiga.io Kanban board](https://tree.taiga.io/project/jmrqs-kanban-board/kanban)
+
+
 ## Code Repositories
 
-Streaming.Notification.Producer [https://github.com/jmrqs/streaming-notification-producer](https://github.com/jmrqs/streaming-notification-producer) \
-Streaming.Notification.Consumer [https://github.com/jmrqs/streaming-notification-consumer](https://github.com/jmrqs/streaming-notification-consumer)
+**Notification Subdomain**
+
+ [Streaming.Notification.Producer](https://github.com/jmrqs/streaming-notification-producer) \
+[Streaming.Notification.Consumer](https://github.com/jmrqs/streaming-notification-consumer)
 
 # Development Guidelines
 
@@ -59,9 +66,9 @@ Streaming.Notification.Consumer [https://github.com/jmrqs/streaming-notification
 
 ### Semantic commit message
 
-`<type>: <subject> #<pbi or hotfix>`
+`<type>: <subject> #<pbi, task or hotfix>`
 
-_\* PBI or hotfix not aplicable for this project_
+_\* For this project will be applicable the task number_
 
 **Types:**
 
