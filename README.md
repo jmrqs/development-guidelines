@@ -1,19 +1,3 @@
-# Architecture
-
-![](docs/img/streaming-boundaries.jpg)
-
-## Agile and DevOps
-
-[Taiga.io Kanban board](https://tree.taiga.io/project/jmrqs-kanban-board/kanban)
-
-
-## Code Repositories
-
-**Notification Subdomain**
-
- [Streaming.Notification.Producer](https://github.com/jmrqs/streaming-notification-producer) \
-[Streaming.Notification.Consumer](https://github.com/jmrqs/streaming-notification-consumer)
-
 # Development Guidelines
 
 ## Git Flow
